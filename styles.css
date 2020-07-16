@@ -17,6 +17,13 @@ body{
     font-family: 'Rubik', sans-serif;
 }
 
+<style type="text/css"> 
+a.nounderline:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
+
 .container{
     background-color: var(--primary);
     display: flex;
